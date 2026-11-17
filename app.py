@@ -1,11 +1,5 @@
 """
-STUDIO BOT - private Discord bot + web dashboard (single file, slash commands only)
-
-Files next to app.py:
-  token.txt         your bot token
-  users.txt         dashboard logins, one per line  ->  username:password
-  requirements.txt  packages
-Dashboard:  http://de01.heavencloud.in:2021   (port is set in config.json)
+STUDIO BOT - private bot - alpha showcase client version {0.1/7824}
 """
 import ast
 import asyncio
